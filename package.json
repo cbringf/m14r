@@ -1,6 +1,6 @@
 {
   "name": "m14r",
-  "version": "1.0.1",
+  "version": "0.1.1",
   "description": "Tools for ms messages management",
   "main": "index.js",
   "types": "./types/index.d.ts", 
