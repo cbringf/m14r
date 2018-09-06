@@ -8,7 +8,7 @@ module.exports = {
 		nodeExternals()
 	],
 	target: 'node',
-	entry: './src/index.ts',
+	 entry: './src/index.ts',
 	module: {
 		rules: [{
 			test: /\.tsx?$/,
