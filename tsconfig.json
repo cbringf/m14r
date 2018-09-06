@@ -1,6 +1,5 @@
 {
 	"compilerOptions": {
-		"outDir": "./",
 		"module": "commonJs",
 		"allowJs": true,
 		"lib": [
